@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@dependabot/yarn-lib@^1.13.0":
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/@dependabot/yarn-lib/-/yarn-lib-1.13.0.tgz#b9a17bf2446b1e0421577bcd5884914fe711c771"
-  integrity sha512-tupA1eJEISmSm5TbU4WpoMwGQAJE3kutdGarLnvNAQf38nVYTye6KwGsYGsweogRDQ54MUs2+zTgPvFaP1vUTA==
+"@dependabot/yarn-lib@^1.16.0":
+  version "1.16.0"
+  resolved "https://registry.yarnpkg.com/@dependabot/yarn-lib/-/yarn-lib-1.16.0.tgz#5c5f8d48706f60f90f5dbc48d7036f82a5fb4ad4"
+  integrity sha512-TufgpxY7IDeBfmzhXc/b71Oz56/nwq0+w0Y4dOkNC+XVEa3SJwW8kmyJxWWyFwoUwBZKZhT2wCTqCogtlhZLAw==
   dependencies:
     "@zkochan/cmd-shim" "^3.1.0"
     babel-runtime "^6.26.0"
