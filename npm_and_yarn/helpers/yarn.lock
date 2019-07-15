@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@dependabot/yarn-lib@^1.13.0":
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/@dependabot/yarn-lib/-/yarn-lib-1.13.0.tgz#b9a17bf2446b1e0421577bcd5884914fe711c771"
-  integrity sha512-tupA1eJEISmSm5TbU4WpoMwGQAJE3kutdGarLnvNAQf38nVYTye6KwGsYGsweogRDQ54MUs2+zTgPvFaP1vUTA==
+"@dependabot/yarn-lib@^1.17.3":
+  version "1.17.3"
+  resolved "https://registry.yarnpkg.com/@dependabot/yarn-lib/-/yarn-lib-1.17.3.tgz#69213a7ef3854d9d89e3ab58fb5f18ab80f582c9"
+  integrity sha512-jzkoR/bW/VtrYPuMxxhhPSS5oEAwBijDVcz2E887RIf9csFHIJPqOJ0PVPBzhU0FJbGLlKSStvjbJMiHPe/zHg==
   dependencies:
     "@zkochan/cmd-shim" "^3.1.0"
     babel-runtime "^6.26.0"
@@ -45,6 +45,7 @@
     is-builtin-module "^2.0.0"
     is-ci "^1.0.10"
     is-webpack-bundle "^1.0.0"
+    js-yaml "^3.13.1"
     leven "^2.0.0"
     loud-rejection "^1.2.0"
     micromatch "^2.3.11"
@@ -3121,10 +3122,10 @@ js-tokens@^3.0.2:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.2.tgz#9866df395102130e38f7f996bceb65443209c25b"
   integrity sha1-mGbfOVECEw449/mWvOtlRDIJwls=
 
-js-yaml@^3.12.0, js-yaml@^3.7.0:
-  version "3.12.1"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.12.1.tgz#295c8632a18a23e054cf5c9d3cecafe678167600"
-  integrity sha512-um46hB9wNOKlwkHgiuyEVAybXBjwFUV0Z/RaHJblRd9DXltue9FTYvzCr9ErQrK9Adz5MU4gHWVaNUfdmrC8qA==
+js-yaml@^3.12.0, js-yaml@^3.13.1, js-yaml@^3.7.0:
+  version "3.13.1"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.13.1.tgz#aff151b30bfdfa8e49e05da22e7415e9dfa37847"
+  integrity sha512-YfbcO7jXDdyj0DGxYVSlSeQNHbD7XPWvrVWeVUujrQEoZzWJIRrCPoyk6kL6IAjAG2IolMK4T0hNUe0HOUs5Jw==
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
