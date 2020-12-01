@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "npm": "^6.7.0",
-    "semver": "^5.6.0"
+    "semver": "^7.3.4"
   },
   "bin": {
     "dependabot-npm": "./bin/run.js"
